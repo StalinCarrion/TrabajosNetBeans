@@ -1,0 +1,4 @@
+stalin,carrion,1,10,1
+fernando,carchi,2,50,1
+jonathan,perez,3,20,1
+patrio,ordoñez,4,40,1

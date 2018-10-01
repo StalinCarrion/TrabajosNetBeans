@@ -1,0 +1,7 @@
+﻿1102,Danilo,Jaramillo
+1103,Ramiro,Ordoñez  
+1104,Jorges,Hurtado 
+1105,Stalin,Carrion
+1106,Fernando,Carchi
+1107,Juan,Perez
+1108,Marco,Carchi

@@ -1,0 +1,7 @@
+stalin,carrion,1104246556,10,111
+fernando,carchi,11080859306,50,112
+jonathan,perez,110789543,40,113
+stalin,carrion,1104246556,20,111
+stalin,carrrion,1104246556,50,112
+stalin,carrion,11,20,111
+dfgh,vbn,7852,50,111

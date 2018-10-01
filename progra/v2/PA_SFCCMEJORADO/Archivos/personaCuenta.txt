@@ -1,0 +1,4 @@
+stalin,carrion,111,50,1,1101
+fernando,carchi,112,20,0,1102
+pepe,jimenez,113,243,1,1103
+juan,perez,114,50,1,1104
